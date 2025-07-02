@@ -46,7 +46,7 @@ Integrate with a user interface for live predictions
 Expand dataset for better generalizability  
 
 🔗 Author  
-Developed as part of an applied data science project at Excellence Institution
-📧 For queries: [achyuth1612@gmail.com]
+Developed as part of an applied data science project at Excellence Institution  
+📧 For queries: [achyuth1612@gmail.com]  
 👨‍💻 GitHub: [Your GitHub Profile]
 
