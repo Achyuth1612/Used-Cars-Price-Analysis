@@ -48,5 +48,5 @@ Expand dataset for better generalizability
 🔗 Author  
 Developed as part of an applied data science project at Excellence Institution  
 📧 For queries: [achyuth1612@gmail.com]  
-👨‍💻 GitHub: [Your GitHub Profile]
+👨‍💻 GitHub: [https://github.com/Achyuth1612]
 
