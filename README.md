@@ -25,23 +25,15 @@ Matplotlib, Seaborn for data visualization
 Scikit-learn for modeling and evaluation  
 Jupyter Notebook for iterative development  
 
-🚧 Challenges & Solutions
-
-Challenge:
-
-Inconsistent entries in data
-
-Multicollinearity in features
-
-Imbalanced feature importance
-
-Solution:
-
-Cleaned and standardized fields like fuel type, owner, etc.
-
-Used feature selection techniques to reduce redundancy
-
-Applied ensemble models for more robust learning   
+🚧 Challenges & Solutions  
+Challenge:  
+Inconsistent entries in data  
+Multicollinearity in features  
+Imbalanced feature importance  
+Solution:  
+Cleaned and standardized fields like fuel type, owner, etc.  
+Used feature selection techniques to reduce redundancy  
+Applied ensemble models for more robust learning     
 
 📊 Results    
 Best-performing model: Random Forest Regressor  
